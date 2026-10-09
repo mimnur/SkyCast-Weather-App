@@ -1,5 +1,6 @@
-# SkyCast-Weather-App
-📚 Project Overview
+# 🌦️SkyCast-Weather-App
+
+#📚 Project Overview
 🎯 Purpose:
 
 The project aims to build a simple and efficient weather information system where users can search for real-time weather updates of any city.
@@ -12,7 +13,8 @@ People often need quick access to reliable weather forecasts. Many existing syst
 
 Using OOP helps to structure the project into reusable, manageable, and scalable components — which is ideal for future upgrades and easier debugging.
 
-🎯Project Goals & Key Functionalities
+#🎯Project Goals & Key Functionalities
+
 🥅 Main Goals:
 
 Build a clean, console-based weather app. Apply core OOP principles. Learn API integration using Java.
@@ -29,14 +31,14 @@ Build a clean, console-based weather app. Apply core OOP principles. Learn API i
 
 (Optional) ⭐ Save favorite cities.
 
-🛠️ Tools and Technologies:
+#🛠️ Tools and Technologies:
 ~ Programming Language: Java
 
 ~ Libraries: Java Standard Library
 
 ~ Database: Not used in current version (can be added for saving cities)
 
-🧑‍💻 OOP Concepts Used:
+#🧑‍💻 OOP Concepts Used:
 🔒 Encapsulation:
 
 All weather data is stored in private variables in the WeatherData class, with controlled access.
@@ -53,13 +55,14 @@ Can be applied in future versions for expanding to forecast/weather alert subcla
 
 The getWeather() method hides the internal API and parsing details from the user.
 
-🗓️ Project Timeline & Phases:
+##🗓️ Project Timeline & Phases:
     Phase   ------------------------     Duration(weeks)	        
 Research & Planning ----------------------> 2 weeks	              
 Core Development -------------------------->3 weeks	         
     Testing ------------------------------->1 week                                                                                                                                                	
  Documentation    -------------------------> 1 week       	
-🎯 Expected Outcome:
+
+#🎯 Expected Outcome:
 ✅ What will it achieve:
 
 A Java console app that fetches live weather info by city input, displaying it neatly to the user.
@@ -68,10 +71,10 @@ A Java console app that fetches live weather info by city input, displaying it n
 
 Help users get real-time data. It's also an educational project demonstrating practical use of Java OOP + APIs.
 
-📜 Summary / Impact:
+#📜 Summary / Impact:
 This project combines OOP concepts with real-world data. It encourages clean coding practice, real-time API use, and builds problem-solving skills. It’s a great steppingstone for bigger Java applications like mobile or GUI-based systems.
 
-📚 References:
+#📚 References:
 WeatherAPI. (2023). Developer Documentation. Current weather and forecast - OpenWeatherMap
 GitHub Repo**: https://github.com/yourusername/weather-system
 How to make a Weather App: https://youtu.be/MIYQR-Ybrn4?si=vtT1UdNwGAokU72A
